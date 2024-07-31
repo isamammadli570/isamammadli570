@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Isa</h1>
 <h3 align="center">Front-end Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isamammadli570&label=Profile%20views&color=0e75b6&style=flat" alt="isamammadli570" /> </p>
 
