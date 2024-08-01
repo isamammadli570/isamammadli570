@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **React, FrontEnd**
 
 - 📫 How to reach me **isamammadlee@gmail.com**
 
