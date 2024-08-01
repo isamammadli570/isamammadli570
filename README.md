@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 My example project: https://bookcentre.netlify.app
+
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **isamammadlee@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am rock guitarist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
