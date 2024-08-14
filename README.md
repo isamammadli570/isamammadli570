@@ -11,11 +11,13 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
+- 💻All of my projects are avaiable at: https://my-portfolio-isamammadli570.netlify.app/ 
+
 - 💬 Ask me about **React, FrontEnd**
 
 - 📫 How to reach me **isamammadlee@gmail.com**
 
-- ⚡ Fun fact **I think I am rock guitarist**
+- ⚡ Fun fact **I think I am a guitarist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
