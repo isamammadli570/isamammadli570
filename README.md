@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 My example project: https://bookcentre.netlify.app
+- 🔭 My example project: https://folio-mu-peach.vercel.app/
 
 - 💻All of my projects are avaiable at: https://my-portfolio-isamammadli570.netlify.app/ 
 
