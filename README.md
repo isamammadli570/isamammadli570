@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://my-portfolio-isamammadli570.netlify.app/"><b>Portfolio</b></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/isa-m%C9%99mm%C9%99dli-4411aa285/"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/isa-mammadli-4411aa285/"><b>LinkedIn</b></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:isamammadlee@gmail.com"><b>Email</b></a>
 </p>
